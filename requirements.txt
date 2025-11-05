@@ -1,0 +1,7 @@
+paddlepaddle==3.2.0
+paddleocr[all]
+langchain==0.3.27
+langchain-core==0.3.79  # Уточнение версии, совместимой с langchain 0.3.27
+langchain-openai
+langchain-community
+langgraph
